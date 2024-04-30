@@ -1,0 +1,155 @@
+.list-items {
+  padding: 5px;
+  margin: 10px;
+  background-color: transparent;
+  list-style-type: none;
+}
+
+.saved-account {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 110%;
+  border: 1px solid #ffffff;
+  border-radius: 5px;
+}
+
+.para {
+  color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.deleteAndUsername-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  cursor: pointer;
+}
+
+.delete {
+  height: 25px;
+  width: 25px;
+}
+
+h1 {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.color5 {
+  background-color: #0b69ff;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color7 {
+  background-color: #f59e0b;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color8 {
+  background-color: #10b981;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color9 {
+  background-color: #f97316;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color10 {
+  background-color: #14b8a6;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color11 {
+  background-color: #b91c1c;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color12 {
+  background-color: #0ea5e9;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.color13 {
+  background-color: #64748b;
+  color: #ffffff;
+  padding: 15px;
+  text-align: center;
+  margin: 5px;
+  font-size: 20px;
+  border-radius: 30px;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
+.hide {
+  width: 80px;
+}
